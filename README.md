@@ -5,4 +5,4 @@ Coding Challenges completed during my Internship at CodeBits
 Folders 1.1 - 1.4
 
 # Iteration 2
-Folders 2.1 - 2.4
+Folders 2.1 - 2.5
