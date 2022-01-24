@@ -4,8 +4,8 @@
 This was the second project done during the final Iteration of my Codebits Internship. No Backend involved. Just HTML CSS JS from a given UI/UX Design.
 
 ##### DEMO:    
-![](/img/demo1.png)
-![](/img/demo2.png)
+![](img/demo1.png)
+![](img/demo2.png)
 
 # Features
 > Mobie Responsiveness
